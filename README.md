@@ -12,3 +12,7 @@ So, version 2 has made by copilot again, it avoid duplicating the check for scor
 **v3**
 
 copilot help me to initialize the message variable with a default value to avoid duplicating message.
+
+**v4**
+
+simplify version
